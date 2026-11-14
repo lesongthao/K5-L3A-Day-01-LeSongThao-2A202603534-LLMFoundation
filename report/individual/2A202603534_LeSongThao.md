@@ -1,7 +1,7 @@
 # Báo cáo cá nhân — Day 01: Lọc tin nhắn rác bằng ML, DL, Embedding và LLM
 
-- **MSSV:** *(ghi ở tên repository và tên tệp báo cáo theo `RULES.md` mục 5; nhập tại ô `STUDENT_ID` để sinh `SEED = 8485`)*
-- **Họ và tên:** *(ghi ở tên repository và tên tệp báo cáo theo `RULES.md` mục 5)*
+- **MSSV:** 2A202603534 *(ghi ở tên repository và tên tệp báo cáo theo `RULES.md` mục 5; nhập tại ô `STUDENT_ID` để sinh `SEED = 8485`)*
+- **Họ và tên:** Lê Sông Thao *(ghi ở tên repository và tên tệp báo cáo theo `RULES.md` mục 5)*
 - **SEED** (in ở ô đầu notebook): `8485` — **Đề thử thách cá nhân số #2**
 
 ---
